@@ -3,10 +3,10 @@
 这是nw `yyts` AgentFlow 使用的本地媒体执行后端。
 
 ## 准备FFmpeg
+```powershell
 powershell -winget install --id Gyan.FFmpeg.Shared -e
-
+```
 安装后关闭并重新打开 PowerShell
-
 
 看到：Pinned environments and models are ready.才说明安装完成。然后运行：
 powershell -ExecutionPolicy Bypass -File .\start_backend.ps1
@@ -23,14 +23,7 @@ cd yyts
 powershell -ExecutionPolicy Bypass -File .\setup.ps1
 ```
 setup.ps1 会自动完成：
-创建 backend\.venv（Python 3.12）
-创建 backend\runtime\cosyvoice_env（Python 3.10）
-安装锁定依赖
-下载固定版本 Whisper
-下载固定版本 Demucs
-下载固定版本 CosyVoice
-克隆固定版本 CosyVoice 源码
-自动配置项目内模型和临时目录
+创建 backend\.venv（Python 3.12）、创建 backend\runtime\cosyvoice_env（Python 3.10）、安装锁定依赖、下载固定版本 Whisper、下载固定版本 Demucs、下载固定版本 CosyVoice、克隆固定版本 CosyVoice 源码、自动配置项目内模型和临时目录。
 
 `setup.ps1` 使用锁定文件和 `backend/models.lock.json` 中的 revision，创建
 两个独立 Python 环境并下载 Whisper、Demucs、CosyVoice。
