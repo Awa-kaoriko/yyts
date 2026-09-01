@@ -18,7 +18,7 @@ powershell -ExecutionPolicy Bypass -File .\start_backend.ps1
 两个独立 Python 环境并下载 Whisper、Demucs、CosyVoice。模型、任务文件和
 运行环境不会提交到 GitHub。
 
-启动后检查 `http://127.0.0.1:5000/api/health`。需要让女娲云端访问时，另开
+启动后检查 `http://127.0.0.1:5000/api/health`。需要让nw云端访问时，另开
 PowerShell 窗口运行：
 
 ```powershell
