@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-09-01",
+  "backend": {
+    "python": "3.12.13",
+    "torch": "2.11.0+cu128",
+    "torchaudio": "2.11.0+cu128",
+    "whisper": {
+      "repo_id": "Systran/faster-whisper-small",
+      "revision": "536b0662742c02347bc0e980a01041f333bce120",
+      "local_dir": "models/whisper/faster-whisper-small"
+    },
+    "demucs": {
+      "repo_id": "adefossez/HTDemucs",
+      "revision": "bf35a81b663819a8255c8fefee17f9d812b786b5",
+      "model_name": "htdemucs",
+      "local_dir": "models/demucs/HTDemucs"
+    }
+  },
+  "cosyvoice": {
+    "python": "3.10.20",
+    "source_repo": "https://github.com/FunAudioLLM/CosyVoice.git",
+    "source_commit": "074ca6dc9e80a2f424f1f74b48bdd7d3fea531cc",
+    "model_repo": "FunAudioLLM/Fun-CosyVoice3-0.5B-2512",
+    "model_revision": "3a9eb0e104c9ce5bb7ef0af4ac86d9b79abc4029",
+    "model_dir": "runtime/CosyVoice/pretrained_models/Fun-CosyVoice3-0.5B"
+  },
+  "tools": {
+    "ffmpeg_version": "8.1.2-essentials_build-www.gyan.dev",
+    "ffmpeg_sha256": "1326DDE4C84FF1F96FE6B8916C5BED29E163E9B5DCCF995F6F3DB069D143EC5E"
+  }
+}

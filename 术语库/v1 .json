@@ -1,0 +1,167 @@
+[
+  {
+    "zh": "自贡扎染",
+    "aliases": [
+      "自贡砸染",
+      "自貢砸染",
+      "自貢扎染"
+    ],
+    "asr_text": "自贡扎染",
+    "en": "Zigong Tie-Dye",
+    "forbidden": [],
+    "category": "intangible_cultural_heritage",
+    "status": "reviewed",
+    "source": "https://sc.china-embassy.gov.cn/eng/zxhd/202512/t20251201_11764291.htm"
+  },
+  {
+    "zh": "扎染技艺",
+    "aliases": [
+      "扎染",
+      "砸染"
+    ],
+    "asr_text": "扎染",
+    "en": "tie-dyeing",
+    "forbidden": [
+      "art in ink",
+      "ink art"
+    ],
+    "category": "craft_process",
+    "status": "reviewed",
+    "source": "https://www.chinadaily.com.cn/a/202501/21/WS678f5521a310a2ab06ea857e.html"
+  },
+  {
+    "zh": "国家级非物质文化遗产",
+    "aliases": [
+      "国家级非遗"
+    ],
+    "asr_text": "国家级非物质文化遗产",
+    "en": "State-level intangible cultural heritage",
+    "forbidden": [
+      "treasured heritage art",
+      "treasured heritage art in ink"
+    ],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://english.www.gov.cn/policies/latestreleases/202106/10/content_WS60c18cb5c6d0df57f98db093.html"
+  },
+  {
+    "zh": "非物质文化遗产",
+    "aliases": [
+      "非遗"
+    ],
+    "asr_text": "非物质文化遗产",
+    "en": "intangible cultural heritage",
+    "forbidden": [
+      "time-honored craft"
+    ],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://ich.unesco.org/en-state/china-CN?info=periodic-reporting"
+  },
+  {
+    "zh": "蜀缬",
+    "aliases": [
+      "蜀仙",
+      "属形",
+      "屬形",
+      "属邪",
+      "屬邪"
+    ],
+    "asr_text": "蜀缬",
+    "en": "Shuxie",
+    "tts_reading": "Shoo-syeh",
+    "forbidden": [
+      "Shuxian",
+      "Ancient Shuxian"
+    ],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://www.zgm.cn/content/669a080e969ba"
+  },
+  {
+    "zh": "蜀缬扎染",
+    "aliases": [
+      "蜀颉扎染",
+      "蜀仙扎染"
+    ],
+    "asr_text": "蜀缬扎染",
+    "en": "Shuxie Tie-Dye",
+    "tts_reading": "Shoo-syeh Tie-Dye",
+    "forbidden": [
+      "Shuxian"
+    ],
+    "category": "organization",
+    "status": "reviewed",
+    "source": "https://www.schs-group.com/bandhnu.html"
+  },
+  {
+    "zh": "中国工艺美术瑰宝",
+    "aliases": [],
+    "en": "a treasure of Chinese arts and crafts",
+    "forbidden": [
+      "Chinese craft treasure",
+      "craft treasure"
+    ],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://en.chnmuseum.cn/exhibition/exhibition_series/temporary_exhibitions/classical_art_exhibitions/202108/t20210824_251090.html"
+  },
+  {
+    "zh": "工艺美术",
+    "aliases": [],
+    "en": "arts and crafts",
+    "forbidden": [
+      "craft"
+    ],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://en.chnmuseum.cn/exhibition/exhibition_series/temporary_exhibitions/classical_art_exhibitions/202108/t20210824_251090.html"
+  },
+  {
+    "zh": "鸿山集团",
+    "aliases": [],
+    "en": "Hongshan Group",
+    "forbidden": [],
+    "category": "organization",
+    "status": "needs_review",
+    "source": "https://www.schs-group.com/"
+  },
+  {
+    "zh": "宣纸",
+    "aliases": [
+      "宣紙"
+    ],
+    "asr_text": "宣纸",
+    "en": "Xuan paper",
+    "tts_reading": "Shwen paper",
+    "forbidden": [
+      "rice paper"
+    ],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://ich.unesco.org/en/RL/traditional-handicrafts-of-making-xuan-paper-00201"
+  },
+  {
+    "zh": "牛皮纸",
+    "aliases": [
+      "牛皮紙"
+    ],
+    "asr_text": "牛皮纸",
+    "en": "kraft paper",
+    "forbidden": [],
+    "category": "cultural_expression",
+    "status": "reviewed",
+    "source": "https://www.merriam-webster.com/dictionary/kraft"
+  },
+  {
+    "zh": "贴附于牛皮纸上",
+    "aliases": [],
+    "en": "mount it onto kraft paper",
+    "forbidden": [
+      "transfer the sketch to kraft paper"
+    ],
+    "category": "craft_process",
+    "status": "needs_review",
+    "source": ""
+  }
+]

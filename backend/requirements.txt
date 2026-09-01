@@ -1,0 +1,6 @@
+Flask>=3.0,<4.0
+faster-whisper>=1.1,<2.0
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0+cu128
+torchaudio==2.11.0+cu128
+demucs>=4,<5

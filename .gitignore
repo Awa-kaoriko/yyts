@@ -1,0 +1,14 @@
+# Local Python environments and generated media must not be committed.
+backend/.venv/
+backend/storage/
+backend/models/
+backend/runtime/
+backend/tmp/
+__pycache__/
+*.py[cod]
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.zip
